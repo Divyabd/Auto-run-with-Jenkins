@@ -3,7 +3,7 @@ agent any
 stages{
   stage ("Hello"){
    steps {
-    sh 'echo Divya1 '
+    sh 'echo THANKSDivya1 '
    }
   }
 }
